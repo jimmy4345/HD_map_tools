@@ -1,0 +1,10 @@
+# config for las to pcd
+# 1:PointXYZI, 2:PointXYZRGB
+
+input_dir=/home/point3080/Jimmy/Taoyuan_airport_las/Taoyuan_airport
+output_file_name=Taoyuan_airport_merge_new.pcd
+offsetX=-270000.00
+offsetY=-2770000.00
+offsetZ=0.00
+leaf_size=0.25
+# point_type=1
